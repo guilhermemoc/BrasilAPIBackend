@@ -1,4 +1,4 @@
-***Lembrando que com dotnet 7 não é necessário dockerfile***
+*** disclaimer: com dotnet 7 não é necessário dockerfile***
 
 1. Criar imagem:
 
